@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shandikadav@protonmail.com",
+                "Name": "shandikadav"
+            }
+        ],
+        "Category": "Appearance",
+        "Description": "KAngel Splash Screen",
+        "Id": "com.shandikadav.kangelsplash",
+        "License": "GPLv3",
+        "Name": "KAngel Splash",
+        "Version": "1.0",
+        "Website": "https://shandikadav.my.id"
+    },
+    "X-Plasma-APIVersion": "2"
+}
