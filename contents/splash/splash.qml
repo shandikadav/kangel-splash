@@ -31,7 +31,7 @@ Rectangle {
 
             AnimatedImage {
                 id: gifAnim
-                source: "images/kangel.gif"
+                source: "images/splash.gif"
                 paused: false
                 
                 anchors.fill: parent

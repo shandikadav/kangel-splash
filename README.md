@@ -55,9 +55,9 @@ cd kangel-splash
 ### Install locally
 
 ```bash
-mkdir -p ~/.local/share/plasma/look-and-feel/com.shandikadav.kangel
+mkdir -p ~/.local/share/plasma/look-and-feel/com.shandikadav.kangelsplash
 
-cp -r * ~/.local/share/plasma/look-and-feel/com.shandikadav.kangel/
+cp -r * ~/.local/share/plasma/look-and-feel/com.shandikadav.kangelsplash/
 ```
 
 ### Enable the splash screen
