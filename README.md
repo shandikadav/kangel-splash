@@ -1,7 +1,7 @@
 [//]: # (Linux/Unix Desktops > Desktop Themes > KDE > KDE Plasma > Plasma 6 Splashscreen)
 
 <p align="center">
-  <img alt="KAngel Splash Screen" src="contents/splash/images/kangel.gif" width="300"/>
+  <img alt="KAngel Splash Screen" src="contents/splash/images/splash.gif" width="300"/>
 </p>
 
 <h1 align="center">🙏 KAngel <i>- a Plasma 6 Splash Screen</i> 🙏</h1>
