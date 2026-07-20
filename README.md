@@ -43,16 +43,31 @@ Whether you're starting your day or rebooting after another all-nighter, let **I
 
 ## 📦 Installation
 
-Since this package is not yet available on the KDE Store, you'll need to install it manually.
+### Option 1 — Install from KDE Store (Recommended)
 
-### Clone the repository
+The easiest way to install KAngel is directly from the **KDE Store**.
+
+🌐 **KDE Store / OpenDesktop**
+https://www.opendesktop.org/p/2359108/
+
+Or open:
+
+**System Settings → Colors & Themes → Splash Screen → Get New...**
+
+Search for **KAngel**, click **Install**, then **Apply**.
+
+---
+
+### Option 2 — Manual Installation
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/shandikadav/kangel-splash.git
 cd kangel-splash
 ```
 
-### Install locally
+Install it locally:
 
 ```bash
 mkdir -p ~/.local/share/plasma/look-and-feel/com.shandikadav.kangelsplash
@@ -60,9 +75,7 @@ mkdir -p ~/.local/share/plasma/look-and-feel/com.shandikadav.kangelsplash
 cp -r * ~/.local/share/plasma/look-and-feel/com.shandikadav.kangelsplash/
 ```
 
-### Enable the splash screen
-
-Open:
+Enable it from:
 
 **System Settings → Colors & Themes → Splash Screen**
 
@@ -75,7 +88,7 @@ Select **KAngel**, then click **Apply**.
 Preview the splash screen without logging out.
 
 ```bash
-ksplashqml --test com.shandikadav.kangel
+ksplashqml --test com.shandikadav.kangelsplash
 ```
 
 ---
