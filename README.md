@@ -48,7 +48,7 @@ Whether you're starting your day or rebooting after another all-nighter, let **I
 The easiest way to install KAngel is directly from the **KDE Store**.
 
 🌐 **KDE Store / OpenDesktop**
-https://www.opendesktop.org/p/2359108/
+https://www.opendesktop.org/p/2365800/
 
 Or open:
 
